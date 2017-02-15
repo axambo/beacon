@@ -4,7 +4,7 @@ A SuperCollider extension for a multichannel performance using sound samples wri
 
 
 Introduction
-------------
+----
 
 This SC class is designed for multichannel speakers set in a ring. It is possible to add an offset depending on the number of the first bus of the speakers set. The code includes SynthDefs that are triggered to pairs, even/odds, random, or sequential speakers. The rate can be modified in real time and it is linked to the unit generator PlayBuf of sound samples. 
 
@@ -18,7 +18,7 @@ Here you can listen to the live performance held at the Root Signals Festival 20
 Application Start
 ----
 
-The code used in the concert of Root Signals Festival 2017 corresponds to the following commit hash to GitHub: https://github.com/axambo/beacon/commit/4c59208ddc8054d75086cec2bf09076460c817e6
+The code used in the concert of Root Signals Festival 2017 corresponds to the following commit hash to GitHub: https://github.com/axambo/beacon/commit/1455d416bebbbc3e6138929551ad5749831c98bf
 
 Drag the `Beacon.sc` file to the Extensions folder of SuperCollider (suggested to create a subfolder with the same name): `/Users/{username}/Library/Application Support/SuperCollider/Extensions` (in Mac)
 
@@ -26,13 +26,13 @@ Either recompile the class library (`Language>Recompile Class Library`) or resta
 
 There are two relevant files to run the program: a [config file](config_RSF17.md) and a [script file](script_RSF17.md) that should be run sequentially and be self-explanatory.
 
-Bear in mind that the sound samples used are defined in the class `Beacon.sc` (both names and the directory where they are stored). Make sure to rename as appropriate.
+Bear in mind that the sound samples used are defined in the class `Beacon.sc` (both names and the directory where they are stored). Make sure to rename as appropriate. Sounds should be in mono.
 
 
 Sound credit list
 ----
 
-The sounds used come from FreeSound and are published under CC licenses. Here is a [full sound credit list](sound_credits_RSF17.md).
+The sounds used come from FreeSound and are published under CC licenses. Here is a [full sound credit list](sound_credits_RSF17.md). The sample rate of sounds has been set to 44.1Hz and the sample format to 16-bit.
 
 
 
