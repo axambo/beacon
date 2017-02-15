@@ -18,7 +18,7 @@ Here you can listen to the live performance held at the Root Signals Festival 20
 Application Start
 ----
 
-The code used in the concert of Root Signals Festival 2017 corresponds to the following commit hash to GitHub: XXX
+The code used in the concert of Root Signals Festival 2017 corresponds to the following commit hash to GitHub: https://github.com/axambo/beacon/commit/4c59208ddc8054d75086cec2bf09076460c817e6
 
 Drag the `Beacon.sc` file to the Extensions folder of SuperCollider (suggested to create a subfolder with the same name): `/Users/{username}/Library/Application Support/SuperCollider/Extensions` (in Mac)
 
