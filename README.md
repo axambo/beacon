@@ -10,7 +10,7 @@ The code has been especially written to interact with the visual interactive ins
 
 In the future we may explore mutual interactions so that the audio engine can also control the visual system.
 
-The library has been adapted and modified for each new performance. Thus, the code has been divided into folders that represent each performance, so far: Root Signal Festival 2017 (Georgia Southern University, Statesboro, Georgia, USA) and NIME 2017 (Stengade, Copenhagen, Denmark).
+The library has been adapted and modified for each new performance. Thus, the code has been divided into folders that represent each performance, so far: Root Signal Festival 2017 (Georgia Southern University, Statesboro, Georgia, USA), NIME 2017 (Stengade, Copenhagen, Denmark), and TEI 2018 (Kulturhuset, Stockholm, Sweden).
 
 ### RSF17
 
@@ -27,6 +27,9 @@ The `Beacon` SC class is adapted for the first time to stereo, exploring the sam
 
 [Here](https://soundcloud.com/annaxambo/beacon-nime-2017) you can listen to the live performance held at the NIME 2017 conference, Stengade, Copenhagen, Denmark.
 
+### TEI18
+
+The `Beacon` SC class is refined for a stereo setup, as a followup of NIME17, but reducing the number of sounds, adding new sounds, and refining the mappings with the Distaff and the buses for applying effects.
 
 Application Start
 ----
