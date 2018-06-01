@@ -25,7 +25,7 @@ The code used in the concert of Root Signals Festival 2017 corresponds to the fo
 
 The `Beacon` SC class is adapted for the first time to stereo, exploring the same effects than in RSF17 but using panning and the like.
 
-[Here](https://soundcloud.com/annaxambo/beacon-nime-2017) you can listen to the live performance held at the NIME 2017 conference, Stengade, Copenhagen, Denmark:
+[Here](https://soundcloud.com/annaxambo/beacon-nime-2017) you can listen to the live performance held at the NIME 2017 conference, Stengade, Copenhagen, Denmark.
 
 
 Application Start
@@ -48,7 +48,7 @@ Related publications
 Sound credit list
 ----
 
-The sounds used come from FreeSound and are published under CC licenses. There is a list of sound credits for each folder.
+The sounds used come from FreeSound and are published under CC licenses. There is a list of sound credits for in each folder.
 
 
 License
