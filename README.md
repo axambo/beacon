@@ -10,7 +10,12 @@ The code has been especially written to interact with the visual interactive ins
 
 In the future we may explore mutual interactions so that the audio engine can also control the visual system.
 
-The library has been adapted and modified for each new performance. Thus, the code has been divided into folders that represent each performance, so far: Root Signal Festival 2017 (Georgia Southern University, Statesboro, Georgia, USA), NIME 2017 (Stengade, Copenhagen, Denmark), and TEI 2018 (Kulturhuset, Stockholm, Sweden).
+The library has been adapted and modified for each new performance. Thus, the code has been divided into folders that represent each performance, so far: 
+
+* Root Signal Festival 2017 (Georgia Southern University, Statesboro, Georgia, USA)
+* NIME 2017 (Stengade, Copenhagen, Denmark)
+* TEI 2018 (Kulturhuset, Stockholm, Sweden)
+* NIME 2018 (Moss Arts Center: Anne and Ellen Fife Theatre, Blacksburg, VA (USA)) 
 
 ### RSF17
 
@@ -18,8 +23,7 @@ The `Beacon` SC class is designed for multichannel speakers set in a ring. It is
 
 [Here](https://soundcloud.com/annaxambo/beacon-root-signals-festival-2017) you can listen to the live performance held at the Root Signals Festival 2017, Georgia Southern University.
 
-The code used in the concert of Root Signals Festival 2017 corresponds to the following commit hash to GitHub, which is also now accessible to the RSF17 folder: https://github.com/axambo/beacon/commit/1455d416bebbbc3e6138929551ad5749831c98bf
-
+The code used in the concert of Root Signals Festival 2017 corresponds to [this commit hash to GitHub](https://github.com/axambo/beacon/commit/1455d416bebbbc3e6138929551ad5749831c98bf), which is also now accessible to the RSF17 folder.
 
 ### NIME17
 
@@ -30,6 +34,10 @@ The `Beacon` SC class is adapted for the first time to stereo, exploring the sam
 ### TEI18
 
 The `Beacon` SC class is refined for a stereo setup, as a followup of NIME17, but reducing the number of sounds, adding new sounds, and refining the mappings with the Distaff and the buses for applying effects.
+
+### NIME18
+
+The `Beacon` SC class has been polished a little bit more, adding more new sounds, and refining even more the mappings with the Distaff and the buses for applying effects.
 
 Application Start
 ----
@@ -46,7 +54,7 @@ Bear in mind that the sound samples used are defined in the class `Beacon.sc` (b
 Related publications
 ----
 
-* Weisling, A., Xambó, A. (2018). []“Beacon: Exploring Physicality in Digital Performance”](http://annaxambo.me/pub/Weisling_Xambo_2018_Physicality_in_digital_performance.pdf). In Proceedings of the Twelfth International Conference on Tangible, Embedded, and Embodied Interaction (TEI ’18). Stockholm, Sweden. pp. 586–591.
+* Weisling, A., Xambó, A. (2018). [“Beacon: Exploring Physicality in Digital Performance”](http://annaxambo.me/pub/Weisling_Xambo_2018_Physicality_in_digital_performance.pdf). In Proceedings of the Twelfth International Conference on Tangible, Embedded, and Embodied Interaction (TEI ’18). Stockholm, Sweden. pp. 586–591.
 
 Sound credit list
 ----
