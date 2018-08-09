@@ -15,7 +15,7 @@ The library has been adapted and modified for each new performance. Thus, the co
 * Root Signal Festival 2017 (Georgia Southern University, Statesboro, Georgia, USA)
 * NIME 2017 (Stengade, Copenhagen, Denmark)
 * TEI 2018 (Kulturhuset, Stockholm, Sweden)
-* NIME 2018 (Moss Arts Center: Anne and Ellen Fife Theatre, Blacksburg, VA (USA)) 
+* NIME 2018 (Moss Arts Center: Anne and Ellen Fife Theatre, Blacksburg, VA, USA) 
 
 ### RSF17
 
